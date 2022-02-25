@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test GifGridItem  Test if GifGridItem is showing correctly 1`] = `
+<div
+  className="card animate__animated animate__bounce animate__faceIn"
+>
+  <img
+    alt="A title"
+    src="https://localhost/something.jpg"
+  />
+  <p>
+    A title
+  </p>
+</div>
+`;
